@@ -37,4 +37,4 @@ def test():
             
 ```
 
-There is far more that you can do with Markdowns. This is only a small amount that can be accomplished with it. For more information for it click [here] (https://guides.github.com/features/mastering-markdown/)
+There is far more that you can do with Markdowns. This is only a small amount that can be accomplished with it. For more information for it click [here](https://guides.github.com/features/mastering-markdown/)
