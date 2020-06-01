@@ -13,4 +13,4 @@ Growth mindset to me, ~~means that when the going gets tough I get going~~ is ne
 
 [Reading for Class One](Reading-01.md)
 
-[Reading for Class Two](Reading-02.md)
+[Reading 2 for Class One](Reading-02.md)
