@@ -9,6 +9,6 @@ Growth mindset to me, ~~means that when the going gets tough I get going~~ is ne
 - ***Never settle for whats comfortable*** 
 
 
-
+#### Table of Contents
 
 [Reading for Class One](Reading-01.md)
