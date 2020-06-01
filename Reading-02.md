@@ -1,4 +1,4 @@
-#Reading for 2 Day 1
+# Reading 2 for Day 1
 
 
 - The first thing you need to do is pick an editor that works best for what you need. Or one that you are most comfortable with. 
