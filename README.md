@@ -11,4 +11,4 @@ Growth mindset to me, ~~means that when the going gets tough I get going~~ is ne
 
 
 
-
+[Reading for Class One](Reading-01.md)
