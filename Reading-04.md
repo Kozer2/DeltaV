@@ -23,6 +23,6 @@ What did I learn from Reading chapter 18?
 Chapter 17 **focuses** on HTML.
 
 Some commands you ***need*** to know are:
-- ```<body> < /body> ```
-- ```<nav> < /nav> ```
-- ```<header> </header> ```
+- ```<body> < /body> ```  You would put the body of the webpage in here.
+- ```<nav> < /nav> ```    This is a navigation element. 
+- ```<div> </div> ```     This allows you to divide the sections of the page up and allows you to control the style of these sections by the Div name. 
