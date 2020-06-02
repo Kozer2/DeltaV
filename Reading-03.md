@@ -20,7 +20,7 @@ Distributed control means that Git uses multiple servers to store your files tha
 * No matter how small the change you make is, Git saves and tracks that change. You can go back and see what you changed and why, assuming you wrote down what it is you did. 
 
 *repository*
-*A repository or a repo is a location where the code you work on is stored. 
+* A repository or a repo is a location where the code you work on is stored. 
 
 Whats that? You want to get working with it? You can download Git!
 - [Mac OS](http://git-scm.com/download/mac)
