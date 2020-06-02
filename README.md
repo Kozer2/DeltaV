@@ -15,3 +15,6 @@ Growth mindset to me, ~~means that when the going gets tough I get going~~ is ne
 | :-------------                            | :----------:                             | -----------: | -----------: | -----------:|
 |  [Reading 1 for Class One](Reading-01.md) | [Reading 1 for Class Two](Reading-03.md) |              |              |             |
 |  [Reading 2 for Class One](Reading-02.md) |                                          |              |              |             |
+
+Stretch Goal for Lab 03
+#### [What did I learn doing this?](WhatILearned.md)
