@@ -23,6 +23,6 @@ What did I learn from Reading chapter 18?
 Chapter 17 **focuses** on HTML.
 
 Some commands you ***need*** to know are:
-- *<body> </body>*
-- *<nav> </nav>*
-- *<header> </header>*
+- <code> <body> </body> </code>
+- <nav> </nav>
+- <header> </header>
