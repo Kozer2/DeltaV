@@ -10,7 +10,7 @@ Growth mindset to me, ~~means that when the going gets tough I get going~~ is ne
 
 #### Table of Contents
 
-Test
+
 | Day 1                                     | Day 2                                    | Day 3        | Day 4        | Day 5       |
 | :-------------                            | :----------:                             | -----------: | -----------: | -----------:|
 |  [Reading 1 for Class One](Reading-01.md) | [Reading 1 for Class Two](Reading-03.md) |              |              |             |
