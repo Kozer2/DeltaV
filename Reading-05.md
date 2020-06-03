@@ -24,4 +24,7 @@
 
 
 ## Chapter 11 Color
-    
+* Changing color in CSS or HTML is easy
+* You can use RGB values like ```102,105,etc``` 
+* or Hex code like ```66cdaa```
+* or even color names like ```green```
