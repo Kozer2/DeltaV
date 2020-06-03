@@ -11,10 +11,10 @@ Growth mindset to me, ~~means that when the going gets tough I get going~~ is ne
 #### Table of Contents
 
 
-| Day 1                                     | Day 2                                    | Day 3                                    | Day 4        | Day 5       |
-| :-------------                            | :----------:                             | -----------:                             | -----------: | -----------:|
-|  [Reading 1 for Class One](Reading-01.md) | [Reading 1 for Class Two](Reading-03.md) | [Reading 1 for Class 3](Reading-05.md) |              |             |
-|  [Reading 2 for Class One](Reading-02.md) | [Reading 2 for Class Two](Reading-04.md) |                                          |              |             |
+| Day 1                     | Day 2                     | Day 3                      | Day 4       | Day 5       |
+| :-------------            | :----------:              | -----------:               | -----------: | -----------:|
+|[Reading 1](Reading-01.md) |[Reading 3](Reading-03.md) |[Reading 5](Reading-05.md)  |              |
+|[Reading 2](Reading-02.md) |[Reading 4](Reading-04.md) |                            |              |             |
 
 Stretch Goal for Lab 03
 #### [What did I learn doing this?](WhatILearned.md).
