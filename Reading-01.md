@@ -1,4 +1,4 @@
-#Reading Assingmnet from class 1. 
+# Reading Assignment from class 1. 
 
 
 # Read 01 Learning Markdown 
