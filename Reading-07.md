@@ -12,7 +12,7 @@
 ### Things to know from Functions
 * A function is a series of instructions given to a computer that allow it to perform a task. 
 * Functions need several things to work
- * Fisrt you need to call the function
+ * First you need to call the function
   * then you give it parameters
    * and then finally it returns you a value
 
