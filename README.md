@@ -6,7 +6,7 @@ Growth mindset to me, ~~means that when the going gets tough I get going~~ is ne
 -  *Each day is a new chance to change who I am and to become something more* 
 - ***Never settle for whats comfortable*** 
 
-### [About me](AboutMe.md)
+### [About me](AboutMe.md)  
 
 #### Table of Contents
 
