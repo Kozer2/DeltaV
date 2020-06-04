@@ -20,8 +20,8 @@ Loops are something I consider to be the bread and butter of a program.
   * The ```Do While``` loop is like the ```While``` loop but will always run the code inside of it at least once. 
 
   A rough example of a while loop could be:  
-``` var counter = 1;```
-   ``` while (counter <= 10) {```
-     ```   console.log(counter);```
-      ```  counter +=1;```
-    ```}```
+``` var counter = 1;```  
+   ``` while (counter <= 10) {```  
+     ```   console.log(counter);```  
+      ```  counter +=1;```  
+    ```}```  
