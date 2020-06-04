@@ -16,6 +16,6 @@
   * then you give it parameters
    * and then finally it returns you a value
 
-   A very basic function to Concatenate strings could be:
+   A very basic function to Concatenate strings could be:  
    ```Function concatenateString(string1, string2) {```   
                 ```return (string1 + ' ' + string2); }```
