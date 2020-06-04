@@ -18,4 +18,4 @@
 
    A very basic function to Concatenate strings could be:  
    ```Function concatenateString(string1, string2) {```   
-                ```return (string1 + ' ' + string2); }```
+                  ```return (string1 + ' ' + string2); }```
